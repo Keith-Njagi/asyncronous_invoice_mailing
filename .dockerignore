@@ -1,0 +1,6 @@
+__pycache__
+.gitignore
+celery_mail_pdf.py
+env
+config.env
+extre.txt
